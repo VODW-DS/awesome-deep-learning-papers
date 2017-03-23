@@ -12,6 +12,8 @@ Before this list, there exist other *awesome deep learning lists*, for example, 
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
+To get the news for newly released papers everyday, follow my [twitter](https://twitter.com/TerryUm_ML) or [facebook page](https://www.facebook.com/terryum.io/)! 
+
 ## Awesome list criteria
 
 1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
@@ -40,7 +42,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
 
-## Table of Contents
+## Contents
 
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
 * [Optimization / Training Techniques](#optimization--training-techniques)
@@ -116,7 +118,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **You only look once: Unified, real-time object detection** (2016), J. Redmon et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - **Region-based convolutional networks for accurate object detection and segmentation** (2016), R. Girshick et al. [[pdf]](https://www.cs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
 - **Fully convolutional networks for semantic segmentation** (2015), J. Long et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), S. Ren et al. [[pdf]] (http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), S. Ren et al. [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 - **Fast R-CNN** (2015), R. Girshick [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
 - **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 - **Semantic image segmentation with deep convolutional nets and fully connected CRFs**, L. Chen et al. [[pdf]](https://arxiv.org/pdf/1412.7062)
@@ -148,8 +150,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 
-### Natural Language Process
-- **A character-level decoder without explicit segmentation for neural machine translation** (2016), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1603.06147)
+### Natural Language Processing
+- **Neural Architectures for Named Entity Recognition** (2016), G. Lample et al. [[pdf]](http://aclweb.org/anthology/N/N16/N16-1030.pdf)
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 - **Effective approaches to attention-based neural machine translation** (2015), M. Luong et al. [[pdf]](https://arxiv.org/pdf/1508.04025)
@@ -204,17 +206,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Dynamic memory networks for visual and textual question answering** (2016), C. Xiong et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf)
 - **Stacked attention networks for image question answering** (2016), Z. Yang et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf)
 - **Hybrid computing using a neural network with dynamic external memory** (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
-- **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** (2016), Y. Wu et al. [[pdf]](https://arxiv.org/pdf/1609.08144)
+- **Google's neural machine translation system: Bridging the gap between human and machine translation** (2016), Y. Wu et al. [[pdf]](https://arxiv.org/pdf/1609.08144)
 
 * * *
 
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
-- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
-- Wasserstein GAN, M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
-- Understanding deep learning requires rethinking generalization, C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
-
+- Mask R-CNN (2017), K. He. [[pdf]](https://128.84.21.199/pdf/1703.06870)
+- Learning to discover cross-domain relations with generative adversarial networks (2017), T. Kim et al. [[pdf]](http://arxiv.org/pdf/1703.05192v1.pdf) 
+- Deep voice: Real-time neural text-to-speech (2017), S. Arik et al., [[pdf]](http://arxiv.org/pdf/1702.07825v2.pdf)
+- PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017), A. Bansal et al. [[pdf]](http://arxiv.org/pdf/1702.06506v1.pdf)
+- Batch renormalization: Towards reducing minibatch dependence in batch-normalized models (2017), S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
+- Wasserstein GAN (2017), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
+- Understanding deep learning requires rethinking generalization (2017), C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
+- Least squares generative adversarial networks (2016), X. Mao et al. [[pdf]](https://arxiv.org/abs/1611.04076v2)
 
 
 ### Old Papers
@@ -248,6 +254,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Book / Survey / Review
+- On the Origin of Deep Learning (2017), H. Wang and Bhiksha Raj. [[pdf]](https://arxiv.org/pdf/1702.07800)
+- Deep Reinforcement Learning: An Overview (2017), Y. Li, [[pdf]](http://arxiv.org/pdf/1701.07274v2.pdf)
+- Neural Machine Translation and Sequence-to-sequence Models(2017): A Tutorial, G. Neubig. [[pdf]](http://arxiv.org/pdf/1703.01619v1.pdf)
+- Neural Network and Deep Learning (Book, Jan 2017), Michael Nielsen. [[html]](http://neuralnetworksanddeeplearning.com/index.html)
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
 - LSTM: A search space odyssey (2016), K. Greff et al. [[pdf]](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
@@ -276,6 +286,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Appendix: More than Top 100
 *(2016)*
+- A character-level decoder without explicit segmentation for neural machine translation (2016), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1603.06147)
 - Dermatologist-level classification of skin cancer with deep neural networks (2017), A. Esteva et al. [[html]](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
 - Weakly supervised object localization with multi-fold multiple instance learning (2017), R. Gokberk et al. [[pdf]](https://arxiv.org/pdf/1503.00949)
 - Brain tumor segmentation with deep neural networks (2017), M. Havaei et al. [[pdf]](https://arxiv.org/pdf/1505.03540)
@@ -302,7 +313,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Generative Short Term Stochastic Gibbs Networks 2016), I. Lenz et al. [[pdf]](https://arxiv.org/pdf/1301.3592)
 
 *(2015)*
-
 - Spatial transformer network (2015), M. Jaderberg et al., [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
 - Ask your neurons: A neural-based approach to answering questions about images (2015), M. Malinowski et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)
 - Exploring models and data for image question answering (2015), M. Ren et al. [[pdf]](http://papers.nips.cc/paper/5640-stochastic-variational-inference-for-hidden-markov-models.pdf)
@@ -332,6 +342,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - Describing videos by exploiting temporal structure (2015), L. Yao et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf)
 - A neural conversational model (2015), O. Vinyals and Q. Le. [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
+- Improving distributional similarity with lessons learned from word embeddings, O. Levy et al. [[pdf]] (https://www.transacl.org/ojs/index.php/tacl/article/download/570/124)
+- Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al. [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
+- Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al. [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
+- Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al. [[pdf]](http://aclweb.org/anthology/D/D15/D15-1176.pdf)
+
 
 *(~2014)*
 
@@ -349,6 +364,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Learning Hierarchical Features for Scene Labeling (2013), C. Farabet et al. [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
+- A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
 
 
 
@@ -356,8 +372,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ## Acknowledgement
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
-
-You can follow my [facebook page](https://www.facebook.com/terryum.io/), [twitter](https://twitter.com/TerryUm_ML) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and deep learning research. Thank you.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
